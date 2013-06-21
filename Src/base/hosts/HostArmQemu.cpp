@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for the Qemu ARM emulator
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 #include "Common.h"
 
@@ -32,10 +40,32 @@
     #define KEYS
 #endif
 
+/**
+ * Event filter which translates PC keyboard keys to simulated hardware device buttons
+ */
 class HostArmQemuKeyFilter : public QObject
 {
 
 protected:
+	/**
+	 * Translates a KeyPress or KeyRelease event from a keyboard key to a hardware button and posts the translated event to the queue
+	 * 
+	 * The keys which are translated are as follows:
+	 * - Left arrow key = Previous button
+	 * - Right arrow key = Next button
+	 * - Home key = Home button
+	 * - Escape key = Back button
+	 * - End key = Launcher button
+	 * - Pause/Break key = Power button
+	 * - F6 key = simulate orientation with the top of the screen facing up
+	 * - F7 key = simulate orientation with the right of the screen facing up
+	 * - F8 key = simulate orientation with the bottom of the screen facing up
+	 * - F9 key = simulate orientation with the left of the screen facing up
+	 * 
+	 * @param	obj			Object the KeyPress/KeyRelease event was sent to, presumably.
+	 * @param	event			Event which, if it is a KeyPress or KeyRelease event that we know how to translate, is transleted.
+	 * @return				true if we translated the event, false if we did not.
+	 */
 	bool eventFilter(QObject* obj, QEvent* event)
 	{
 		bool handled = false;
@@ -174,20 +204,49 @@ protected:
 	}
 };
 
+/**
+ * Device-specific functionality for the Qemu ARM emulator
+ * 
+ * Device details:
+ * - Requires a bunch of key remapping.
+ * - Switches (0)
+ * - Translates a bunch of desktop keys to hardware keycodes.   See {@link HostArmQemuKeyFilter HostArmQemuKeyFilter} for information on which keys are remapped to which phone keycodes.
+ * 
+ * @see HostArmQemuKeyFilter
+ */
 class HostArmQemu : public HostArm
 {
 public:
+	/**
+	 * Constructs a Qemu device host
+	 */
 	HostArmQemu();
+	
+	/**
+	 * Destroys a Qemu device host
+	 */
 	virtual ~HostArmQemu();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * @return				Returns the string "ARM Emulator".
+	 */
 	virtual const char* hardwareName() const{ return "ARM Emulator"; }
+	
+	//Documented in parent
 	virtual void setCentralWidget(QWidget* view);
-
+	
 	// switches aren't available in the emulator
 	virtual void getInitialSwitchStates() { }
+	
+	//Documented in parent
 	virtual int getNumberOfSwitches() const { return 0; }
 
 private:
+	/**
+	 * The key filter that remaps desktop keybaord keys to phone keycodes
+	 */
 	HostArmQemuKeyFilter* m_keyFilter;
 };
 

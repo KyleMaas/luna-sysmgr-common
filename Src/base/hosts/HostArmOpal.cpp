@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for the never-released Opal devices
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 
 
@@ -23,12 +31,35 @@
 
 #include "HostArm.h"
 
+/**
+ * Device-specific functionality for the never-released Opal devices, which would have been very similar to the Topaz devices
+ * 
+ * Device details:
+ * - ARMv7.
+ * - Turbo mode from 40% to 95% of speed.
+ * - Switches (2): headphones inserted and power.
+ * - Home button wakes up the screen.
+ * 
+ * @see https://en.wikipedia.org/wiki/HP_TouchPad
+ */
 class HostArmOpal : public HostArm
 {
 public:
+	/**
+	 * Constructs an Opal device host
+	 */
 	HostArmOpal();
+	
+	/**
+	 * Destroys an Opal device host
+	 */
 	virtual ~HostArmOpal();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * @return				Returns a string "Opal -- unknown revision".
+	 */
 	virtual const char* hardwareName() const;
 
 	virtual bool homeButtonWakesUpScreen();

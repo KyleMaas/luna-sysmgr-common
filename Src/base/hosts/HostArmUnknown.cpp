@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for unknown types of ARM-based devices
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 
 
@@ -23,12 +31,30 @@
 
 #include "HostArm.h"
 
+/**
+ * Device-specific functionality for unknown types of ARM-based devices
+ * 
+ * Device details:
+ * - Basically the point of this is that just about all we know is that it's based on an ARM processor.
+ */
 class HostArmUnknown : public HostArm
 {
 public:
+	/**
+	 * Constructs an unknown ARM type device host
+	 */
 	HostArmUnknown();
+	
+	/**
+	 * Destroys an unknown ARM type device host
+	 */
 	virtual ~HostArmUnknown();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * @return				Returns the string "Unknown hardware type".
+	 */
 	virtual const char* hardwareName() const;
 };
 

@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for the Topaz devices
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 
 
@@ -23,17 +31,46 @@
 
 #include "HostArm.h"
 
+/**
+ * Device-specific functionality for the Topaz devices
+ * 
+ * Device details:
+ * - ARMv7.
+ * - Turbo mode from 40% to 95% of speed.
+ * - Switches (2): headphones inserted and power.
+ * - Raw orientation readings are rotated +90 degrees from correct orientation before being translated.
+ * - Home button wakes up the screen.
+ * 
+ * @see https://en.wikipedia.org/wiki/HP_TouchPad
+ */
 class HostArmTopaz : public HostArm
 {
 public:
+	/**
+	 * Constructs a Topaz device host
+	 */
 	HostArmTopaz();
+	
+	/**
+	 * Destroys a Topaz device host
+	 */
 	virtual ~HostArmTopaz();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * @return				Returns the string "Topaz -- unknown revision".
+	 */
 	virtual const char* hardwareName() const;
-
+	
+	//Documented in parent
 	virtual bool homeButtonWakesUpScreen();
+	
+	//Documented in parent
 	virtual int getNumberOfSwitches() const;
-    virtual OrientationEvent* postProcessDeviceOrientation(OrientationEvent* currOrientation);
+	
+	//Documented in parent
+	virtual OrientationEvent* postProcessDeviceOrientation(OrientationEvent* currOrientation);
 protected:
 	virtual void turboMode(bool enable);
 };

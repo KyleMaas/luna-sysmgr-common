@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for the Mantaray-based devices
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 
 
@@ -23,12 +31,45 @@
 
 #include "HostArm.h"
 
+/**
+ * Device-specific functionality for the Mantaray-based devices
+ * 
+ * Device details:
+ * - ARMv7.
+ * - No turbo mode.
+ * - Switches (3): ringer, slider, and headphones inserted.
+ * 
+ * @see https://en.wikipedia.org/wiki/Pre_3
+ */
 class HostArmMantaray : public HostArm
 {
 public:
+	/**
+	 * Constructs a Mantaray-based device host
+	 */
 	HostArmMantaray();
+	
+	/**
+	 * Destroys a Mantaray-based device host
+	 */
 	virtual ~HostArmMantaray();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * Returns one of the following depending on
+	 * hardware model:
+	 * 
+	 * - Mantaray EVT1
+	 * - Mantaray EVT2
+	 * - Mantaray EVT3
+	 * - Mantaray DVT1
+	 * - Mantaray DVT2
+	 * - Mantaray DVT3
+	 * - Mantaray -- unknown revision
+	 * 
+	 * @return				Returns a string starting with "Mantaray".  See description for full list.
+	 */
 	virtual const char* hardwareName() const;
 };
 

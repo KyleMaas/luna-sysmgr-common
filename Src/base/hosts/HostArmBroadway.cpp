@@ -15,6 +15,14 @@
 * limitations under the License.
 *
 * LICENSE@@@ */
+/**
+ * @file
+ * 
+ * Device-specific functionality for the Broadway devices
+ *
+ * @author Hewlett-Packard Development Company, L.P.
+ * 
+ */
 
 
 
@@ -23,12 +31,45 @@
 
 #include "HostArm.h"
 
+/**
+ * Device-specific functionality for the Broadway devices
+ * 
+ * Device details:
+ * - ARMv7.
+ * - No turbo mode.
+ * - Switches (2): ringer and slider.
+ * 
+ * @see https://en.wikipedia.org/wiki/HP_Veer
+ */
 class HostArmBroadway : public HostArm
 {
 public:
+	/**
+	 * Constructs a Broadway device host
+	 */
 	HostArmBroadway();
+	
+	/**
+	 * Destroys a Broadway device host
+	 */
 	virtual ~HostArmBroadway();
-
+	
+	/**
+	 * @copybrief HostArm::hardwareName()
+	 * 
+	 * Returns one of the following depending on
+	 * hardware model:
+	 * 
+	 * - Broadway EVT1
+	 * - Broadway EVT2
+	 * - Broadway EVT3
+	 * - Broadway DVT1
+	 * - Broadway DVT2
+	 * - Broadway DVT3
+	 * - Broadway -- unknown revision
+	 * 
+	 * @return				Returns a string starting with "Broadway".  See description for full list.
+	 */
 	virtual const char* hardwareName() const;
 
 	int getNumberOfSwitches() const;
