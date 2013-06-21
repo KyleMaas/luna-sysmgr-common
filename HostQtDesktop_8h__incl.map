@@ -1,0 +1,13 @@
+<map id="HostQtDesktop.h" name="HostQtDesktop.h">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="960,392,1048,421"/>
+<area shape="rect" id="node7" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="1297,83,1390,112"/>
+<area shape="rect" id="node10" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="578,160,674,189"/>
+<area shape="rect" id="node40" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="74,237,144,267"/>
+<area shape="rect" id="node51" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="1142,160,1265,189"/>
+<area shape="rect" id="node56" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="1289,160,1398,189"/>
+<area shape="rect" id="node60" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="1422,160,1524,189"/>
+<area shape="rect" id="node17" href="$sptr_8h.htm" title="sptr.h" alt="" coords="81,315,137,344"/>
+<area shape="rect" id="node21" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="860,315,966,344"/>
+<area shape="rect" id="node25" href="$Event_8h.htm" title="Event.h" alt="" coords="465,237,534,267"/>
+<area shape="rect" id="node45" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="702,237,830,267"/>
+</map>

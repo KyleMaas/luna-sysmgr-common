@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['takeappdirectrenderingscreenshot',['takeAppDirectRenderingScreenShot',['../classHostArm.htm#a574fc9862e334e9cced003a502330ec5',1,'HostArm::takeAppDirectRenderingScreenShot()'],['../classHostBase.htm#a77b77c3bf9d7a51d43e8109012046229',1,'HostBase::takeAppDirectRenderingScreenShot()']]],
+  ['takescreenshot',['takeScreenShot',['../classHostArm.htm#acdb52922ba3ec6d1885c47dc00693e56',1,'HostArm::takeScreenShot()'],['../classHostBase.htm#a4eb89f53ab0a1f0295deeec6ef1e86d4',1,'HostBase::takeScreenShot()']]],
+  ['taskbase',['TaskBase',['../classTaskBase.htm#ad1abe361d54207f1bb4e0e2f87e8251c',1,'TaskBase']]],
+  ['threadcleanup',['threadCleanup',['../Utils_8cpp.htm#ae67f11581254d7943e82b945b4419d14',1,'threadCleanup():&#160;Utils.cpp'],['../Utils_8h.htm#ae67f11581254d7943e82b945b4419d14',1,'threadCleanup():&#160;Utils.cpp']]],
+  ['timeformat',['timeFormat',['../classLocalePreferences.htm#a5a2a668399a4b5452e983935c83463b8',1,'LocalePreferences']]],
+  ['timer',['Timer',['../classTimer.htm#a275e6a3b1aca8b7bc7c278300b39635e',1,'Timer']]],
+  ['timerbase',['TimerBase',['../classTimerBase.htm#aa04065e4a43ac54a012730ac58726b33',1,'TimerBase']]],
+  ['timercheck',['timerCheck',['../classSingletonTimer.htm#a7a3db6ffd64d3fa99200b20303e93259',1,'SingletonTimer']]],
+  ['timerdispatch',['timerDispatch',['../classSingletonTimer.htm#a96346750fb1a8d0f5b13c72c1800a79c',1,'SingletonTimer']]],
+  ['timerprepare',['timerPrepare',['../classSingletonTimer.htm#ae1012090e8cd5388862b056796925d3d',1,'SingletonTimer']]],
+  ['timezone',['timezone',['../classLocalePreferences.htm#a1b3dbe48dacff7278673c182a859b43a',1,'LocalePreferences']]],
+  ['title',['title',['../classApplicationDescriptionBase.htm#a713646d823ade77faaa02bd4b5351623',1,'ApplicationDescriptionBase']]],
+  ['tojsonobject',['toJSONObject',['../classNYXConnectorBase.htm#adcba4887543de7ac8e197c664f4ba1e2',1,'NYXConnectorBase::toJSONObject()'],['../classNYXAccelerationSensorConnector.htm#ae9a2c15e246489e3fe172e852c9ebcef',1,'NYXAccelerationSensorConnector::toJSONObject()'],['../classNYXAlsSensorConnector.htm#a10cecde2c12bb71c4beac16f834beb69',1,'NYXAlsSensorConnector::toJSONObject()'],['../classNYXAngularVelocitySensorConnector.htm#aabd50d722143a43ec738e08f1bf01884',1,'NYXAngularVelocitySensorConnector::toJSONObject()'],['../classNYXBearingSensorConnector.htm#a952772e85999fb440ec596a24541ac0c',1,'NYXBearingSensorConnector::toJSONObject()'],['../classNYXGravitySensorConnector.htm#a9481b174366a9ebdc25589e17d02067a',1,'NYXGravitySensorConnector::toJSONObject()'],['../classNYXLinearAccelearationSensorConnector.htm#aac1be182958913bfb4b52bfc5c2508b7',1,'NYXLinearAccelearationSensorConnector::toJSONObject()'],['../classNYXMagneticFieldSensorConnector.htm#aece5ee05f951d1b7e33078ea84a9ecfd',1,'NYXMagneticFieldSensorConnector::toJSONObject()'],['../classNYXOrientationSensorConnector.htm#a518f0d22b9f2200c04be19be4be890f7',1,'NYXOrientationSensorConnector::toJSONObject()'],['../classNYXScreenProximitySensorConnector.htm#a72d5e1bc650af8a3eb8f84af1843a10d',1,'NYXScreenProximitySensorConnector::toJSONObject()'],['../classNYXRotationSensorConnector.htm#a34a69c6191a4890876cdcc3d82f3995b',1,'NYXRotationSensorConnector::toJSONObject()'],['../classNYXShakeSensorConnector.htm#a981d114693246faa3f884763d41159fe',1,'NYXShakeSensorConnector::toJSONObject()'],['../classNYXLogicalSensorConnectorBase.htm#a166ff7512103c6d2d213bae5030ae44c',1,'NYXLogicalSensorConnectorBase::toJSONObject()']]],
+  ['tojsonstring',['toJSONString',['../classNYXConnectorBase.htm#ad1dcb83d9bbaf0816f92d75096001d1b',1,'NYXConnectorBase']]],
+  ['topositionstring',['toPositionString',['../classNYXOrientationSensorConnector.htm#a418e482e98a754fee766cf124e84c1cc',1,'NYXOrientationSensorConnector']]],
+  ['tostlstring',['toSTLString',['../Utils_8h.htm#af34c17c687f58015148ed00d95f11d3c',1,'Utils.h']]],
+  ['translatekeywithmeta',['translateKeyWithMeta',['../classHostQtDesktop.htm#a499c245d0ebd092f644cd3d98bb24fe3',1,'HostQtDesktop::translateKeyWithMeta()'],['../classHostBase.htm#a1d837481808ec34d2a832d5af182c897',1,'HostBase::translateKeyWithMeta()']]],
+  ['trimwhitespace',['trimWhitespace',['../Utils_8cpp.htm#a62066e3517f95a54f4da7b1f2cffb941',1,'trimWhitespace(const std::string &amp;s, const std::string &amp;drop):&#160;Utils.cpp'],['../Utils_8h.htm#a5102282bbd36f3dc8eba4fb582dab678',1,'trimWhitespace(const std::string &amp;s, const std::string &amp;drop=&quot;\r\n\t &quot;):&#160;Utils.cpp']]],
+  ['true_5fbearing',['true_bearing',['../classBearingEvent.htm#af4d92f1a43aa751681bdf5c6bd3ed928',1,'BearingEvent::true_bearing()'],['../classCompassEvent.htm#a1e9bf6d575f186353fe920a0b6bd4658',1,'CompassEvent::true_bearing()']]],
+  ['truebearing',['trueBearing',['../classNYXBearingSensorConnector.htm#a52a1619ede5f196d9d7321b172b9b166',1,'NYXBearingSensorConnector']]],
+  ['trylock',['tryLock',['../classMutex.htm#ab2feff7363312debbdcd55d993935865',1,'Mutex']]],
+  ['turbomode',['turboMode',['../classHostArmOpal.htm#ac39736402f4723e5e3aea5678617fb35',1,'HostArmOpal::turboMode()'],['../classHostArmTopaz.htm#a59055ab85a924b187c928a5b616a285b',1,'HostArmTopaz::turboMode()'],['../classHostBase.htm#a83e9d336db1554aed7e787bd0d0cada2',1,'HostBase::turboMode()']]],
+  ['turbomodesubscription',['turboModeSubscription',['../classHostBase.htm#ae46ba603ab5ae5b38a66bb95f06708a2',1,'HostBase']]],
+  ['type',['type',['../classNYXConnectorBase.htm#a2efd8afd7d87464aa9478788c3194ed7',1,'NYXConnectorBase']]]
+];

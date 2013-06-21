@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['accelfastpollfreq',['accelFastPollFreq',['../classSettings.htm#a6e0cc573e2dfb3ece0d7a9dbd1c4be93',1,'Settings']]],
+  ['activecardwindowratio',['activeCardWindowRatio',['../classSettings.htm#a6a29386ddde7bd010ceaf674c83e2256',1,'Settings']]],
+  ['activetouchpanel',['activeTouchpanel',['../structWindowProperties.htm#adcd8764c860bacd9fbb9bfa2b7709a59',1,'WindowProperties']]],
+  ['allowallappsinlowmemory',['allowAllAppsInLowMemory',['../classSettings.htm#acb1e041b23d69c87af580f77bcea809b',1,'Settings']]],
+  ['allowresizeonpositivespacechange',['allowResizeOnPositiveSpaceChange',['../structWindowProperties.htm#a8ef5da0f78906cb108c1415b466df168',1,'WindowProperties']]],
+  ['allowturbomode',['allowTurboMode',['../classSettings.htm#a98135266889f2bc91d3e0387988ee5ba',1,'Settings']]],
+  ['alsdisabled',['alsDisabled',['../structWindowProperties.htm#a20a4d74478b45622e59a8d2518e0ea0d',1,'WindowProperties']]],
+  ['appinstallbase',['appInstallBase',['../classSettings.htm#a65ccd92d8cdbdc2efcf614f9e73e348b',1,'Settings']]],
+  ['appinstallertmp',['appInstallerTmp',['../classSettings.htm#ae35ba0f99df3f9fc64bdf94d698e805d',1,'Settings']]],
+  ['appinstallrelative',['appInstallRelative',['../classSettings.htm#a46ecb02277b46d94212c061fce776f22',1,'Settings']]],
+  ['appstoallowinlowmemory',['appsToAllowInLowMemory',['../classSettings.htm#ab10663d3bb6251b8907d38b62f91931a',1,'Settings']]],
+  ['appstodisableaccelcompositing',['appsToDisableAccelCompositing',['../classSettings.htm#a4bb116d5963acba04a5c742ca1979ca3',1,'Settings']]],
+  ['appstokeepalive',['appsToKeepAlive',['../classSettings.htm#af3689b4145a56224ad1ce85bc899d372',1,'Settings']]],
+  ['appstokeepaliveuntilmempressure',['appsToKeepAliveUntilMemPressure',['../classSettings.htm#a12d3034321d01e46459697836eaafef1',1,'Settings']]],
+  ['appstolaunchatboot',['appsToLaunchAtBoot',['../classSettings.htm#a4c2ca3aecdb78b20978855f76e6c8ac4',1,'Settings']]],
+  ['atlasenabled',['atlasEnabled',['../classSettings.htm#ab5d5f85fef6a5043a8e12e5d6f0b702a',1,'Settings']]],
+  ['atlasmemthreshold',['atlasMemThreshold',['../classSettings.htm#aef984d48c0bbd21d03342675ae265cbf',1,'Settings']]]
+];

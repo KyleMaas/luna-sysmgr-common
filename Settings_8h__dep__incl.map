@@ -1,0 +1,13 @@
+<map id="Settings.h" name="Settings.h">
+<area shape="rect" id="node3" href="$HostArm_8cpp.htm" title="HostArm.cpp" alt="" coords="9,83,111,112"/>
+<area shape="rect" id="node7" href="$HostQtDesktop_8cpp.htm" title="HostQtDesktop.cpp" alt="" coords="135,83,279,112"/>
+<area shape="rect" id="node9" href="$Localization_8cpp.htm" title="Localization.cpp" alt="" coords="303,83,425,112"/>
+<area shape="rect" id="node11" href="$Logging_8cpp.htm" title="Logging.cpp" alt="" coords="449,83,548,112"/>
+<area shape="rect" id="node13" href="$LocalePreferences_8cpp.htm" title="LocalePreferences.cpp" alt="" coords="628,160,793,189"/>
+<area shape="rect" id="node15" href="$Settings_8cpp.htm" title="Settings.cpp" alt="" coords="623,83,721,112"/>
+<area shape="rect" id="node17" href="$NyxSensorConnector_8cpp.htm" title="NyxSensorConnector.cpp" alt="" coords="745,83,927,112"/>
+<area shape="rect" id="node19" href="$JSONUtils_8h.htm" title="JSONUtils.h" alt="" coords="951,83,1047,112"/>
+<area shape="rect" id="node24" href="$ProcessKiller_8h.htm" title="ProcessKiller.h" alt="" coords="1071,83,1185,112"/>
+<area shape="rect" id="node5" href="$HostBase_8cpp.htm" title="HostBase.cpp" alt="" coords="5,160,115,189"/>
+<area shape="rect" id="node21" href="$JSONUtils_8cpp.htm" title="JSONUtils.cpp" alt="" coords="943,160,1055,189"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Mutex.h" name="Mutex.h">
+<area shape="rect" id="node3" href="$Mutex_8cpp.htm" title="Mutex.cpp" alt="" coords="1409,83,1495,112"/>
+<area shape="rect" id="node5" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="1569,83,1665,112"/>
+<area shape="rect" id="node9" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="1383,160,1476,189"/>
+<area shape="rect" id="node48" href="$LocalePreferences_8h.htm" title="LocalePreferences.h" alt="" coords="1875,83,2027,112"/>
+<area shape="rect" id="node53" href="$MutexLocker_8h.htm" title="MutexLocker.h" alt="" coords="1751,160,1865,189"/>
+<area shape="rect" id="node7" href="$TaskBase_8cpp.htm" title="TaskBase.cpp" alt="" coords="1500,160,1609,189"/>
+<area shape="rect" id="node44" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="1633,160,1727,189"/>
+<area shape="rect" id="node11" href="$FlickGestureRecognizer_8cpp.htm" title="FlickGestureRecognizer.cpp" alt="" coords="791,237,988,267"/>
+<area shape="rect" id="node13" href="$HostArm_8cpp.htm" title="HostArm.cpp" alt="" coords="1416,315,1517,344"/>
+<area shape="rect" id="node15" href="$HostBase_8cpp.htm" title="HostBase.cpp" alt="" coords="1412,392,1521,421"/>
+<area shape="rect" id="node17" href="$HostArm_8h.htm" title="HostArm.h" alt="" coords="1012,237,1097,267"/>
+<area shape="rect" id="node36" href="$HostQtDesktop_8h.htm" title="HostQtDesktop.h" alt="" coords="325,237,453,267"/>
+<area shape="rect" id="node40" href="$LocalePreferences_8cpp.htm" title="LocalePreferences.cpp" alt="" coords="1725,237,1891,267"/>
+<area shape="rect" id="node42" href="$SyncTask_8cpp.htm" title="SyncTask.cpp" alt="" coords="1592,237,1701,267"/>
+<area shape="rect" id="node20" href="$HostArmBroadway_8cpp.htm" title="HostArmBroadway.cpp" alt="" coords="373,315,539,344"/>
+<area shape="rect" id="node22" href="$HostArmMantaray_8cpp.htm" title="HostArmMantaray.cpp" alt="" coords="563,315,725,344"/>
+<area shape="rect" id="node24" href="$HostArmOpal_8cpp.htm" title="HostArmOpal.cpp" alt="" coords="749,315,880,344"/>
+<area shape="rect" id="node26" href="$HostArmQemu_8cpp.htm" title="HostArmQemu.cpp" alt="" coords="904,315,1043,344"/>
+<area shape="rect" id="node28" href="$HostArmTopaz_8cpp.htm" title="HostArmTopaz.cpp" alt="" coords="1067,315,1208,344"/>
+<area shape="rect" id="node30" href="$HostArmUnknown_8cpp.htm" title="HostArmUnknown.cpp" alt="" coords="1232,315,1392,344"/>
+<area shape="rect" id="node33" href="$HostArmWindsorNot_8cpp.htm" title="HostArmWindsorNot.cpp" alt="" coords="173,315,349,344"/>
+<area shape="rect" id="node38" href="$HostQtDesktop_8cpp.htm" title="HostQtDesktop.cpp" alt="" coords="5,315,149,344"/>
+<area shape="rect" id="node50" href="$Localization_8cpp.htm" title="Localization.cpp" alt="" coords="1889,160,2012,189"/>
+<area shape="rect" id="node56" href="$Logging_8cpp.htm" title="Logging.cpp" alt="" coords="1965,237,2064,267"/>
+</map>

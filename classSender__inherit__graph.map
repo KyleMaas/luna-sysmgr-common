@@ -1,0 +1,14 @@
+<map id="Sender" name="Sender">
+<area shape="rect" id="node3" href="$classSignalBase.htm" title="SignalBase\&lt; Arg0, Arg1,\l Arg2, Arg3, Arg4 \&gt;" alt="" coords="128,13,301,59"/>
+<area shape="rect" id="node7" href="$classSignalBase.htm" title="SignalBase\&lt; Arg0 \&gt;" alt="" coords="141,91,288,120"/>
+<area shape="rect" id="node11" href="$classSignalBase.htm" title="SignalBase\&lt; Arg0, Arg1 \&gt;" alt="" coords="123,153,307,183"/>
+<area shape="rect" id="node15" href="$classSignalBase.htm" title="SignalBase\&lt; Arg0, Arg1,\l Arg2 \&gt;" alt="" coords="128,207,301,254"/>
+<area shape="rect" id="node19" href="$classSignalBase.htm" title="SignalBase\&lt; Arg0, Arg1,\l Arg2, Arg3 \&gt;" alt="" coords="128,281,301,327"/>
+<area shape="rect" id="node23" href="$classSignalBase.htm" title="SignalBase\&lt;\&gt;" alt="" coords="160,355,269,384"/>
+<area shape="rect" id="node5" href="$classSignal.htm" title="Signal\&lt; Arg0, Arg1,\l Arg2, Arg3, Arg4 \&gt;" alt="" coords="356,5,497,51"/>
+<area shape="rect" id="node9" href="$classSignal_3_01Arg0_00_01void_00_01void_00_01void_00_01void_01_4.htm" title="Signal\&lt; Arg0, void,\l void, void, void \&gt;" alt="" coords="357,74,496,121"/>
+<area shape="rect" id="node13" href="$classSignal_3_01Arg0_00_01Arg1_00_01void_00_01void_00_01void_01_4.htm" title="Signal\&lt; Arg0, Arg1,\l void, void, void \&gt;" alt="" coords="356,143,497,190"/>
+<area shape="rect" id="node17" href="$classSignal_3_01Arg0_00_01Arg1_00_01Arg2_00_01void_00_01void_01_4.htm" title="Signal\&lt; Arg0, Arg1,\l Arg2, void, void \&gt;" alt="" coords="356,213,497,259"/>
+<area shape="rect" id="node21" href="$classSignal_3_01Arg0_00_01Arg1_00_01Arg2_00_01Arg3_00_01void_01_4.htm" title="Signal\&lt; Arg0, Arg1,\l Arg2, Arg3, void \&gt;" alt="" coords="356,282,497,329"/>
+<area shape="rect" id="node25" href="$classSignal_3_01void_00_01void_00_01void_00_01void_00_01void_01_4.htm" title="Signal\&lt; void, void,\l void, void, void \&gt;" alt="" coords="360,351,493,398"/>
+</map>

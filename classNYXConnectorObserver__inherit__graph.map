@@ -1,0 +1,10 @@
+<map id="NYXConnectorObserver" name="NYXConnectorObserver">
+<area shape="rect" id="node3" href="$classHostArm.htm" title="HostArm" alt="" coords="231,165,305,195"/>
+<area shape="rect" id="node5" href="$classHostArmBroadway.htm" title="HostArmBroadway" alt="" coords="361,5,500,35"/>
+<area shape="rect" id="node7" href="$classHostArmMantaray.htm" title="HostArmMantaray" alt="" coords="363,59,499,88"/>
+<area shape="rect" id="node9" href="$classHostArmOpal.htm" title="HostArmOpal" alt="" coords="377,112,484,141"/>
+<area shape="rect" id="node11" href="$classHostArmQemu.htm" title="HostArmQemu" alt="" coords="375,165,487,195"/>
+<area shape="rect" id="node13" href="$classHostArmTopaz.htm" title="HostArmTopaz" alt="" coords="373,219,488,248"/>
+<area shape="rect" id="node15" href="$classHostArmUnknown.htm" title="HostArmUnknown" alt="" coords="364,272,497,301"/>
+<area shape="rect" id="node17" href="$classHostArmWindsorNot.htm" title="HostArmWindsorNot" alt="" coords="356,325,505,355"/>
+</map>

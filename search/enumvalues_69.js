@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['issetactivetouchpanel',['isSetActiveTouchpanel',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94aec331fc8d657b41110d9a5a953768488',1,'WindowProperties']]],
+  ['issetallowresizeonpositivespacechange',['isSetAllowResizeOnPositiveSpaceChange',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a339170410319f3b8a43a54cca53329a2',1,'WindowProperties']]],
+  ['issetalsdisabled',['isSetAlsDisabled',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a8b9ba046388d8f8105fc19b2c6b26c2c',1,'WindowProperties']]],
+  ['issetblockscreentimeout',['isSetBlockScreenTimeout',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a27c2b87d727820bcfefc74db11068f76',1,'WindowProperties']]],
+  ['issetdashboardmanualdragmode',['isSetDashboardManualDragMode',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a4b1d507588fb7b042011f961817362bd',1,'WindowProperties']]],
+  ['issetenablecompassevents',['isSetEnableCompassEvents',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a337b89a939c51c0fb63dd355bd538f19',1,'WindowProperties']]],
+  ['issetfastaccelerometer',['isSetFastAccelerometer',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a822345612ee98fc0afc33141698e10b0',1,'WindowProperties']]],
+  ['issetfullscreen',['isSetFullScreen',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a54d62ebd28ddb08948225c3daa3ee03f',1,'WindowProperties']]],
+  ['issetgyro',['isSetGyro',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a6ffda8ed6b51381341a5cdee4d3ad679',1,'WindowProperties']]],
+  ['issethaspauseui',['isSetHasPauseUi',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a638ff9ffb388a3acf6e0e65a690d3d6f',1,'WindowProperties']]],
+  ['issetlast',['isSetLast',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94affbe523861eef588cc0c7624d3ad5ab7',1,'WindowProperties']]],
+  ['issetnothing',['isSetNothing',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a8b79bbc7449b5bf5c2faadd17e42b962',1,'WindowProperties']]],
+  ['issetoverlaynotifications',['isSetOverlayNotifications',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a1f39c45df8c80702c59caec499fc9431',1,'WindowProperties']]],
+  ['issetrotationlockmaximized',['isSetRotationLockMaximized',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a35c2fb286ecea98472188643c0362ed6',1,'WindowProperties']]],
+  ['issetstatusbarcolor',['isSetStatusBarColor',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a78ed55a70a2e75ad6573f9e77dc08e79',1,'WindowProperties']]],
+  ['issetsubtlelightbar',['isSetSubtleLightbar',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94afbf9f17bce3df3dff494e34a978b6af7',1,'WindowProperties']]],
+  ['issetsuppressbannermessages',['isSetSuppressBannerMessages',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94a70c33b0d50878de49c3af7edb0758f27',1,'WindowProperties']]],
+  ['issetsuppressgestures',['isSetSuppressGestures',['../structWindowProperties.htm#a70d50d1d588ff3f14411586f0f87dd94ac47214cbd5d5640d359a19cb79100c14',1,'WindowProperties']]]
+];

@@ -1,0 +1,22 @@
+<map id="AsyncCaller.h" name="AsyncCaller.h">
+<area shape="rect" id="node3" href="$AsyncCaller_8cpp.htm" title="AsyncCaller.cpp" alt="" coords="588,83,711,112"/>
+<area shape="rect" id="node5" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="735,83,831,112"/>
+<area shape="rect" id="node7" href="$TaskBase_8cpp.htm" title="TaskBase.cpp" alt="" coords="603,160,712,189"/>
+<area shape="rect" id="node9" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="736,160,829,189"/>
+<area shape="rect" id="node44" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="1071,160,1164,189"/>
+<area shape="rect" id="node11" href="$FlickGestureRecognizer_8cpp.htm" title="FlickGestureRecognizer.cpp" alt="" coords="975,237,1172,267"/>
+<area shape="rect" id="node13" href="$HostArm_8cpp.htm" title="HostArm.cpp" alt="" coords="24,315,125,344"/>
+<area shape="rect" id="node15" href="$HostBase_8cpp.htm" title="HostBase.cpp" alt="" coords="20,392,129,421"/>
+<area shape="rect" id="node17" href="$HostArm_8h.htm" title="HostArm.h" alt="" coords="524,237,609,267"/>
+<area shape="rect" id="node36" href="$HostQtDesktop_8h.htm" title="HostQtDesktop.h" alt="" coords="633,237,761,267"/>
+<area shape="rect" id="node40" href="$LocalePreferences_8cpp.htm" title="LocalePreferences.cpp" alt="" coords="785,237,951,267"/>
+<area shape="rect" id="node42" href="$SyncTask_8cpp.htm" title="SyncTask.cpp" alt="" coords="1196,237,1305,267"/>
+<area shape="rect" id="node20" href="$HostArmBroadway_8cpp.htm" title="HostArmBroadway.cpp" alt="" coords="861,315,1027,344"/>
+<area shape="rect" id="node22" href="$HostArmMantaray_8cpp.htm" title="HostArmMantaray.cpp" alt="" coords="1051,315,1213,344"/>
+<area shape="rect" id="node24" href="$HostArmOpal_8cpp.htm" title="HostArmOpal.cpp" alt="" coords="1237,315,1368,344"/>
+<area shape="rect" id="node26" href="$HostArmQemu_8cpp.htm" title="HostArmQemu.cpp" alt="" coords="333,315,472,344"/>
+<area shape="rect" id="node28" href="$HostArmTopaz_8cpp.htm" title="HostArmTopaz.cpp" alt="" coords="496,315,637,344"/>
+<area shape="rect" id="node30" href="$HostArmUnknown_8cpp.htm" title="HostArmUnknown.cpp" alt="" coords="149,315,309,344"/>
+<area shape="rect" id="node33" href="$HostArmWindsorNot_8cpp.htm" title="HostArmWindsorNot.cpp" alt="" coords="661,315,837,344"/>
+<area shape="rect" id="node38" href="$HostQtDesktop_8cpp.htm" title="HostQtDesktop.cpp" alt="" coords="1392,315,1536,344"/>
+</map>

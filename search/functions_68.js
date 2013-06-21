@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['handleevent',['handleEvent',['../classHostBase.htm#a306567c56c8b87c98d440e151a6c1275',1,'HostBase::handleEvent()'],['../classTaskBase.htm#aa163c038df09ab66da2b5003b9101731',1,'TaskBase::handleEvent()']]],
+  ['hardwarename',['hardwareName',['../classHostArm.htm#ab9b1444ba6e156f9dca62ab38ee024e2',1,'HostArm::hardwareName()'],['../classHostArmBroadway.htm#ab2544381e3c840e806e3932ef9cb6eac',1,'HostArmBroadway::hardwareName()'],['../classHostArmMantaray.htm#a2312077da3740485e6467ce6b2114891',1,'HostArmMantaray::hardwareName()'],['../classHostArmOpal.htm#a2f73a7ee911f17cadf291f57d5f20a75',1,'HostArmOpal::hardwareName()'],['../classHostArmQemu.htm#aa983f9982d0d8cf9a40be9bc90d246e9',1,'HostArmQemu::hardwareName()'],['../classHostArmTopaz.htm#a265772fbd96bef0dade5075e01ff4ec6',1,'HostArmTopaz::hardwareName()'],['../classHostArmUnknown.htm#aa1b4dff301656bdf4c0ef334b861c0c4',1,'HostArmUnknown::hardwareName()'],['../classHostArmWindsorNot.htm#aa4282a565fc51472cd11f15c7600e884',1,'HostArmWindsorNot::hardwareName()'],['../classHostQtDesktop.htm#af03f51250dfee433ba8e99e253575df3',1,'HostQtDesktop::hardwareName()'],['../classHostBase.htm#a5835840c718876c380bfa12e1e85e329',1,'HostBase::hardwareName()']]],
+  ['hasaltkey',['hasAltKey',['../classHostQtDesktop.htm#a16558bcf2220e536dc16056010ccc8b4',1,'HostQtDesktop::hasAltKey()'],['../classHostBase.htm#aafe87f833c0d66f493894845a11eb36a',1,'HostBase::hasAltKey()']]],
+  ['hasmatch',['hasMatch',['../classKeywordMap.htm#ac48efeaf509fa8828486269ee15578e5',1,'KeywordMap']]],
+  ['homebuttonwakesupscreen',['homeButtonWakesUpScreen',['../classHostArmOpal.htm#a33f97bbfbaea5dc49d654a13a5e70925',1,'HostArmOpal::homeButtonWakesUpScreen()'],['../classHostArmTopaz.htm#a38a6f5dbf4bfbe4fd640edd0bd96ae26',1,'HostArmTopaz::homeButtonWakesUpScreen()'],['../classHostArmWindsorNot.htm#ac0cad915a7495076173c317a6d0b816f',1,'HostArmWindsorNot::homeButtonWakesUpScreen()'],['../classHostBase.htm#aad38805fb652479658b5831ef2a85926',1,'HostBase::homeButtonWakesUpScreen()']]],
+  ['hostarm',['HostArm',['../classHostArm.htm#ab784efc88b45b4fe1e4442a1a6014304',1,'HostArm']]],
+  ['hostarmbroadway',['HostArmBroadway',['../classHostArmBroadway.htm#a9d02c8218f3d965ae9a349c80b15c158',1,'HostArmBroadway']]],
+  ['hostarmmantaray',['HostArmMantaray',['../classHostArmMantaray.htm#a2f0884c594d3d3bbc84e60760565c683',1,'HostArmMantaray']]],
+  ['hostarmopal',['HostArmOpal',['../classHostArmOpal.htm#ad02a4c370362612aa13d7aa24ccc557f',1,'HostArmOpal']]],
+  ['hostarmqemu',['HostArmQemu',['../classHostArmQemu.htm#a21650db3b548ba069874e9d8bcfd06e6',1,'HostArmQemu']]],
+  ['hostarmtopaz',['HostArmTopaz',['../classHostArmTopaz.htm#abe60649d9303e6ec6d0f031a8d3222fd',1,'HostArmTopaz']]],
+  ['hostarmunknown',['HostArmUnknown',['../classHostArmUnknown.htm#a302ce5f9d3a78cde92f22f70ab08f0cc',1,'HostArmUnknown']]],
+  ['hostarmwindsornot',['HostArmWindsorNot',['../classHostArmWindsorNot.htm#a897288c899914583985268a0414e2569',1,'HostArmWindsorNot']]],
+  ['hostbase',['HostBase',['../classHostBase.htm#a39006d2b759b1b297647e283ef8dfe6f',1,'HostBase']]],
+  ['hostisqemu',['hostIsQemu',['../classHostBase.htm#ac6ef80b32e862db109167ef6d436e170',1,'HostBase']]],
+  ['hostqtdesktop',['HostQtDesktop',['../classHostQtDesktop.htm#ad4df5389b73de6f2562c6677214de1c5',1,'HostQtDesktop']]]
+];

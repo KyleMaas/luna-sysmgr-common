@@ -1,0 +1,19 @@
+<map id="NYXConnectorBase" name="NYXConnectorBase">
+<area shape="rect" id="node5" href="$classNYXAccelerationSensorConnector.htm" title="NYXAccelerationSensorConnector" alt="" coords="332,5,569,35"/>
+<area shape="rect" id="node7" href="$classNYXAlsSensorConnector.htm" title="NYXAlsSensorConnector" alt="" coords="361,59,540,88"/>
+<area shape="rect" id="node9" href="$classNYXAngularVelocitySensorConnector.htm" title="NYXAngularVelocitySensor\lConnector" alt="" coords="355,111,547,158"/>
+<area shape="rect" id="node11" href="$classNYXBearingSensorConnector.htm" title="NYXBearingSensorConnector" alt="" coords="345,181,556,211"/>
+<area shape="rect" id="node13" href="$classNYXGravitySensorConnector.htm" title="NYXGravitySensorConnector" alt="" coords="348,235,553,264"/>
+<area shape="rect" id="node15" href="$classNYXLinearAccelearationSensorConnector.htm" title="NYXLinearAccelearationSensor\lConnector" alt="" coords="340,287,561,334"/>
+<area shape="rect" id="node17" href="$classNYXLogicalSensorConnectorBase.htm" title="NYXLogicalSensorConnectorBase" alt="" coords="332,357,569,387"/>
+<area shape="rect" id="node27" href="$classNYXMagneticFieldSensorConnector.htm" title="NYXMagneticFieldSensorConnector" alt="" coords="327,411,575,440"/>
+<area shape="rect" id="node29" href="$classNYXOrientationSensorConnector.htm" title="NYXOrientationSensorConnector" alt="" coords="336,464,565,493"/>
+<area shape="rect" id="node31" href="$classNYXRotationSensorConnector.htm" title="NYXRotationSensorConnector" alt="" coords="344,517,557,547"/>
+<area shape="rect" id="node33" href="$classNYXScreenProximitySensorConnector.htm" title="NYXScreenProximitySensor\lConnector" alt="" coords="352,570,549,617"/>
+<area shape="rect" id="node35" href="$classNYXShakeSensorConnector.htm" title="NYXShakeSensorConnector" alt="" coords="351,640,551,669"/>
+<area shape="rect" id="node2" href="$classQObject.htm" title="QObject" alt="" coords="7,327,79,356"/>
+<area shape="rect" id="node19" href="$classNYXLogicalAccelerometerSensorConnector.htm" title="NYXLogicalAccelerometerSensor\lConnector" alt="" coords="625,245,855,291"/>
+<area shape="rect" id="node21" href="$classNYXLogicalDeviceMotionSensorConnector.htm" title="NYXLogicalDeviceMotionSensor\lConnector" alt="" coords="627,314,853,361"/>
+<area shape="rect" id="node23" href="$classNYXLogicalDeviceOrientationSensorConnector.htm" title="NYXLogicalDeviceOrientation\lSensorConnector" alt="" coords="636,383,844,430"/>
+<area shape="rect" id="node25" href="$classNYXLogicalOrientationSensorConnector.htm" title="NYXLogicalOrientationSensor\lConnector" alt="" coords="635,453,845,499"/>
+</map>

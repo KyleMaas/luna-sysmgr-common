@@ -1,0 +1,20 @@
+<map id="HostBase.cpp" name="HostBase.cpp">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="1205,547,1293,576"/>
+<area shape="rect" id="node5" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="547,237,640,267"/>
+<area shape="rect" id="node68" href="$HostArm_8cpp.htm" title="HostArm.cpp" alt="" coords="1537,83,1639,112"/>
+<area shape="rect" id="node147" href="$HostArmUnknown_8cpp.htm" title="HostArmUnknown.cpp" alt="" coords="424,83,584,112"/>
+<area shape="rect" id="node8" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="1360,315,1456,344"/>
+<area shape="rect" id="node34" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="1312,392,1381,421"/>
+<area shape="rect" id="node45" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="963,315,1085,344"/>
+<area shape="rect" id="node50" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="653,315,763,344"/>
+<area shape="rect" id="node52" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="787,315,888,344"/>
+<area shape="rect" id="node15" href="$sptr_8h.htm" title="sptr.h" alt="" coords="1464,469,1520,499"/>
+<area shape="rect" id="node19" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="1544,469,1651,499"/>
+<area shape="rect" id="node23" href="$Event_8h.htm" title="Event.h" alt="" coords="1953,392,2023,421"/>
+<area shape="rect" id="node39" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="1507,392,1635,421"/>
+<area shape="rect" id="node119" href="$Time_8h.htm" title="Time.h" alt="" coords="1400,160,1464,189"/>
+<area shape="rect" id="node127" href="$MutexLocker_8h.htm" title="MutexLocker.h" alt="" coords="1160,315,1275,344"/>
+<area shape="rect" id="node131" href="$Settings_8h.htm" title="Settings.h" alt="" coords="1968,469,2051,499"/>
+<area shape="rect" id="node135" href="$HostArm_8h.htm" title="HostArm.h" alt="" coords="501,160,587,189"/>
+<area shape="rect" id="node142" href="$Logging_8h.htm" title="Logging.h" alt="" coords="2875,392,2957,421"/>
+</map>

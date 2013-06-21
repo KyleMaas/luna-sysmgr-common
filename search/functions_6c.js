@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['led_5fcontroller_5fcallback',['led_controller_callback',['../NyxLedControl_8cpp.htm#ad3ce35c3064ad76323febc87256047f4',1,'NyxLedControl.cpp']]],
+  ['linearaccelerationevent',['LinearAccelerationEvent',['../classLinearAccelerationEvent.htm#af9b4c79b06319fa05fc211e3e9a6b387',1,'LinearAccelerationEvent']]],
+  ['loadlocalizedstrings',['loadLocalizedStrings',['../classLocalization.htm#aa44f23a299ab33876325e2edcaad2035',1,'Localization']]],
+  ['locale',['locale',['../classLocalePreferences.htm#af65ab35396b0aa471a8fbb2f64c9cb71',1,'LocalePreferences::locale(const QString &amp;name) const '],['../classLocalePreferences.htm#a30708be5eba48c309511639315bd16ec',1,'LocalePreferences::locale() const ']]],
+  ['localechanged',['localeChanged',['../classProcessKiller.htm#ae0e78bbbe8d32d12c818662f492cbf87',1,'ProcessKiller']]],
+  ['localeinfochanged',['localeInfoChanged',['../classLocalePreferences.htm#a4fcd404e2051da66c861061b5f10c71d',1,'LocalePreferences']]],
+  ['localeregion',['localeRegion',['../classLocalePreferences.htm#ac9c4dbb7328c18b39cedd5aad02f1e10',1,'LocalePreferences']]],
+  ['locales',['locales',['../classLocalePreferences.htm#a4d9f7deee113c3510196ddc49bfd182c',1,'LocalePreferences']]],
+  ['localized',['LOCALIZED',['../Localization_8cpp.htm#a30d6105f9bdac885bdcbf4528c6cbf6d',1,'LOCALIZED(const std::string &amp;str):&#160;Localization.cpp'],['../Localization_8h.htm#a30d6105f9bdac885bdcbf4528c6cbf6d',1,'LOCALIZED(const std::string &amp;str):&#160;Localization.cpp']]],
+  ['localtime',['localTime',['../Utils_8cpp.htm#a1c21024afc29d8646335ba5b36bee9da',1,'localTime():&#160;Utils.cpp'],['../Utils_8h.htm#a1c21024afc29d8646335ba5b36bee9da',1,'localTime():&#160;Utils.cpp']]],
+  ['location',['Location',['../classLocation.htm#ad151a2fe94d0e616125f9dc8967f6f0b',1,'Location']]],
+  ['lock',['lock',['../classMutex.htm#ad91be808bf0a60a16f10b897ec246d3a',1,'Mutex']]],
+  ['lockpainting',['lockPainting',['../classHostBase.htm#ac7aac96a702507f19f24f0a9e3195700',1,'HostBase']]],
+  ['logcheck',['logCheck',['../Logging_8cpp.htm#aa91c6c0da77081ae12c5bd1bfdf46522',1,'logCheck(const gchar *test, const gchar *file, int line, const gchar *function):&#160;Logging.cpp'],['../Logging_8h.htm#a14c74c17f6482f233439ee438a92a976',1,'logCheck(const gchar *message, const gchar *file, int line, const gchar *function):&#160;Logging.cpp']]],
+  ['logfailedverify',['logFailedVerify',['../Logging_8cpp.htm#a1b7a269ed29cbcff1eb821a300c5aa85',1,'logFailedVerify(const gchar *test, const gchar *file, int line, const gchar *function):&#160;Logging.cpp'],['../Logging_8h.htm#a1b7a269ed29cbcff1eb821a300c5aa85',1,'logFailedVerify(const gchar *test, const gchar *file, int line, const gchar *function):&#160;Logging.cpp']]],
+  ['logfailure',['logFailure',['../Logging_8cpp.htm#afcf3189a0c6b41c8d3a641ebb49b3966',1,'logFailure(const gchar *message, const gchar *file, int line, const gchar *function):&#160;Logging.cpp'],['../Logging_8h.htm#afcf3189a0c6b41c8d3a641ebb49b3966',1,'logFailure(const gchar *message, const gchar *file, int line, const gchar *function):&#160;Logging.cpp']]],
+  ['logfilter',['logFilter',['../Logging_8cpp.htm#ae66506e252ba200e85af3f6f444d08e8',1,'logFilter(const gchar *log_domain, GLogLevelFlags logLevel, const gchar *message, gpointer unused_data):&#160;Logging.cpp'],['../Logging_8h.htm#aea28ca8fe31aa5322216ae70359888b1',1,'logFilter(const gchar *log_domain, GLogLevelFlags log_level, const gchar *message, gpointer unused_data):&#160;Logging.cpp']]],
+  ['logicalsensordataavailable',['logicalSensorDataAvailable',['../classNYXLogicalSensorConnectorBase.htm#ae684bec605640e9c94fbef5017f5c78e',1,'NYXLogicalSensorConnectorBase']]],
+  ['loginit',['logInit',['../Logging_8cpp.htm#a922fe26598492a0117d8b89b417e7df5',1,'logInit():&#160;Logging.cpp'],['../Logging_8h.htm#a922fe26598492a0117d8b89b417e7df5',1,'logInit():&#160;Logging.cpp']]],
+  ['lsmessagejsonparser',['LSMessageJsonParser',['../classLSMessageJsonParser.htm#add07d58ef777f939a6c85f740256e75d',1,'LSMessageJsonParser']]],
+  ['lunachannelenabled',['LunaChannelEnabled',['../Logging_8cpp.htm#a5fc908b236ec428b03306224ee81c761',1,'LunaChannelEnabled(const char *channel):&#160;Logging.cpp'],['../Logging_8h.htm#a5fc908b236ec428b03306224ee81c761',1,'LunaChannelEnabled(const char *channel):&#160;Logging.cpp']]],
+  ['lunasettings',['LunaSettings',['../classSettings.htm#a49d16a6b46e4b462cec06c5200ba36fa',1,'Settings']]]
+];

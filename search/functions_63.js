@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['call',['call',['../classAsyncCallerBase.htm#a71e9ed263208a85e723c4b3c7c9c9eac',1,'AsyncCallerBase']]],
+  ['callobserver',['callObserver',['../classNYXConnectorBase.htm#a5a68af337d45597bcb138c253cf7262c',1,'NYXConnectorBase']]],
+  ['canpostevent',['canPostEvent',['../classNYXConnectorBase.htm#aa8964bd7315d8941d8e8a9a295737be1',1,'NYXConnectorBase']]],
+  ['clicked',['clicked',['../classEvent.htm#a10f385f2eb166d9e4823a17d97b3f2cd',1,'Event']]],
+  ['clock',['clock',['../classLocalePreferences.htm#a4553f6d7196c4f3d349e42afcd06c076',1,'LocalePreferences']]],
+  ['clserror',['CLSError',['../structCLSError.htm#acca9aa0e74f2796cf4318a80a28a7dfc',1,'CLSError']]],
+  ['compare_5fregex',['compare_regex',['../Utils_8cpp.htm#aa5a0ff9558909cecf98fee8aedf02573',1,'compare_regex(const gchar *regex, const gchar *string):&#160;Utils.cpp'],['../Utils_8h.htm#aa5a0ff9558909cecf98fee8aedf02573',1,'compare_regex(const gchar *regex, const gchar *string):&#160;Utils.cpp']]],
+  ['compassevent',['CompassEvent',['../classCompassEvent.htm#af850d76a86c417564525953e227bb028',1,'CompassEvent']]],
+  ['concattotempfile',['concatToTempFile',['../Utils_8cpp.htm#ae2dbeeeeb3b63b1cc70aa056d32e1252',1,'Utils.cpp']]],
+  ['confidence',['confidence',['../classBearingEvent.htm#a0691dfcccebfc38d999a3bba94234d49',1,'BearingEvent::confidence()'],['../classCompassEvent.htm#aa6386cb3b678aa0e9c176c7642bd2b29',1,'CompassEvent::confidence()'],['../classNYXBearingSensorConnector.htm#a92a4f13fe8987bb58a247e7b723bc691',1,'NYXBearingSensorConnector::confidence()']]],
+  ['connect',['connect',['../classSignalBase.htm#a3f023ab0c4990934c6b970cdf09a8178',1,'SignalBase::connect(SlotBase&lt; Arg0, Arg1, Arg2, Arg3, Arg4 &gt; *slot)'],['../classSignalBase.htm#ace0803c5f6a969ec6f1a23eeb3b73840',1,'SignalBase::connect(Trackable *recv, SlotBase&lt; Arg0, Arg1, Arg2, Arg3, Arg4 &gt; *slot)'],['../classSignal.htm#a3f34b4f21a56cf2de7fdb42fcb1e20a5',1,'Signal::connect()'],['../classSignal_3_01void_00_01void_00_01void_00_01void_00_01void_01_4.htm#ac7a5dd9f462c06dde404f703838060cb',1,'Signal&lt; void, void, void, void, void &gt;::connect()'],['../classSignal_3_01Arg0_00_01void_00_01void_00_01void_00_01void_01_4.htm#a13f78a0bde0f0a8d7b7fb0f0ae122ca0',1,'Signal&lt; Arg0, void, void, void, void &gt;::connect()'],['../classSignal_3_01Arg0_00_01Arg1_00_01void_00_01void_00_01void_01_4.htm#ab17584d825fa97bf59ec09600e3bc975',1,'Signal&lt; Arg0, Arg1, void, void, void &gt;::connect()'],['../classSignal_3_01Arg0_00_01Arg1_00_01Arg2_00_01void_00_01void_01_4.htm#a0c6500ea536307fa2653480e2fa9f3bd',1,'Signal&lt; Arg0, Arg1, Arg2, void, void &gt;::connect()'],['../classSignal_3_01Arg0_00_01Arg1_00_01Arg2_00_01Arg3_00_01void_01_4.htm#aee05f904c65a1b1d63ba5a0e0f6dfabf',1,'Signal&lt; Arg0, Arg1, Arg2, Arg3, void &gt;::connect()']]],
+  ['connected',['connected',['../classTrackable.htm#afbdb07411138bda1188f03f3e0aa9767',1,'Trackable']]],
+  ['connectsensorsignaltoslot',['connectSensorSignalToSlot',['../classNYXConnectorBase.htm#afcc1754e65a8b8df21263e48648ad300',1,'NYXConnectorBase::connectSensorSignalToSlot()'],['../classNYXLogicalSensorConnectorBase.htm#aa16eedeec3eb2fe00f400172a7185a65',1,'NYXLogicalSensorConnectorBase::connectSensorSignalToSlot()']]],
+  ['converttoms',['convertToMs',['../classTime.htm#a27133c60b6ad23a82b2523a9bf787fe0',1,'Time::convertToMs(const struct timeval *time)'],['../classTime.htm#a67bad96ede75ce879c66a6826a63d630',1,'Time::convertToMs(const struct timespec *time)']]],
+  ['create',['create',['../classFlickGestureRecognizer.htm#a70d82c061cacadb4bbe6c9fb44833618',1,'FlickGestureRecognizer::create()'],['../classSingletonTimer.htm#af33e214370cf591786e410a1b5b2571b',1,'SingletonTimer::create()']]],
+  ['createjsonreply',['createJsonReply',['../JSONUtils_8cpp.htm#a1afc2b455587ecaea3f87c3455664eb2',1,'createJsonReply(bool returnValue, int errorCode, const char *errorText):&#160;JSONUtils.cpp'],['../JSONUtils_8h.htm#af2c1c4930a4f8a109ffbdcaca35c7b1c',1,'createJsonReply(bool returnValue=true, int errorCode=0, const char *errorText=0):&#160;JSONUtils.cpp']]],
+  ['createjsonreplystring',['createJsonReplyString',['../JSONUtils_8cpp.htm#af549c060d3d3a360583945efa66f6270',1,'createJsonReplyString(bool returnValue, int errorCode, const char *errorText):&#160;JSONUtils.cpp'],['../JSONUtils_8h.htm#aac435a9fe710fa6fe5586161b109866f',1,'createJsonReplyString(bool returnValue=true, int errorCode=0, const char *errorText=0):&#160;JSONUtils.cpp']]],
+  ['createneededfolders',['createNeededFolders',['../classSettings.htm#ae5d35910e70f2eef53a10033833f8288',1,'Settings']]],
+  ['currenttime',['currentTime',['../classSingletonTimer.htm#ac0990c7dfe3ec0663d30458f7eebc595',1,'SingletonTimer']]],
+  ['currenttimems',['currentTimeMs',['../Utils_8cpp.htm#a61f83aebdbdd924d6511d7b100b18a44',1,'currentTimeMs():&#160;Utils.cpp'],['../Utils_8h.htm#a61f83aebdbdd924d6511d7b100b18a44',1,'currentTimeMs():&#160;Utils.cpp']]],
+  ['cursystimems',['curSysTimeMs',['../classTime.htm#ae278afe0df9352ac98c5e1f8190af1f6',1,'Time']]],
+  ['curtime',['curTime',['../classTime.htm#ac868d02762f63fc81d8ab7af64a9291f',1,'Time::curTime(struct timespec *time)'],['../classTime.htm#ab420c24515ad06c5c8a763687035937b',1,'Time::curTime(struct timeval *time)']]],
+  ['curtimems',['curTimeMs',['../classTime.htm#a59e5a4c24b966d6f4070b2dd9f2df21a',1,'Time']]]
+];

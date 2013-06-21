@@ -1,0 +1,17 @@
+<map id="HostQtDesktop.cpp" name="HostQtDesktop.cpp">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="1062,469,1150,499"/>
+<area shape="rect" id="node5" href="$HostQtDesktop_8h.htm" title="HostQtDesktop.h" alt="" coords="951,83,1079,112"/>
+<area shape="rect" id="node54" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="1181,237,1303,267"/>
+<area shape="rect" id="node69" href="$Settings_8h.htm" title="Settings.h" alt="" coords="2639,392,2722,421"/>
+<area shape="rect" id="node107" href="$FlickGesture_8h.htm" title="FlickGesture.h" alt="" coords="1255,83,1365,112"/>
+<area shape="rect" id="node115" href="$FlickGestureRecognizer_8h.htm" title="FlickGestureRecognizer.h" alt="" coords="2786,83,2967,112"/>
+<area shape="rect" id="node10" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="710,160,803,189"/>
+<area shape="rect" id="node13" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="709,237,805,267"/>
+<area shape="rect" id="node43" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="75,315,145,344"/>
+<area shape="rect" id="node59" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="997,237,1106,267"/>
+<area shape="rect" id="node63" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="426,237,527,267"/>
+<area shape="rect" id="node20" href="$sptr_8h.htm" title="sptr.h" alt="" coords="82,392,138,421"/>
+<area shape="rect" id="node24" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="911,392,1018,421"/>
+<area shape="rect" id="node28" href="$Event_8h.htm" title="Event.h" alt="" coords="533,315,602,344"/>
+<area shape="rect" id="node48" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="693,315,821,344"/>
+</map>

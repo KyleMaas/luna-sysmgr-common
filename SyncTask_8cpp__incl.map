@@ -1,0 +1,15 @@
+<map id="SyncTask.cpp" name="SyncTask.cpp">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="960,392,1048,421"/>
+<area shape="rect" id="node5" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="663,83,756,112"/>
+<area shape="rect" id="node48" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="504,83,597,112"/>
+<area shape="rect" id="node68" href="$MutexLocker_8h.htm" title="MutexLocker.h" alt="" coords="5,160,120,189"/>
+<area shape="rect" id="node8" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="661,160,757,189"/>
+<area shape="rect" id="node15" href="$sptr_8h.htm" title="sptr.h" alt="" coords="273,315,329,344"/>
+<area shape="rect" id="node19" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="404,315,511,344"/>
+<area shape="rect" id="node23" href="$Event_8h.htm" title="Event.h" alt="" coords="688,237,757,267"/>
+<area shape="rect" id="node38" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="100,237,169,267"/>
+<area shape="rect" id="node43" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="988,237,1116,267"/>
+<area shape="rect" id="node53" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="1164,160,1287,189"/>
+<area shape="rect" id="node58" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="195,160,304,189"/>
+<area shape="rect" id="node62" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="328,160,429,189"/>
+</map>

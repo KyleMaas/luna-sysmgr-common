@@ -1,0 +1,12 @@
+<map id="HostBase.h" name="HostBase.h">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="1039,315,1127,344"/>
+<area shape="rect" id="node5" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="661,83,757,112"/>
+<area shape="rect" id="node35" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="1056,160,1125,189"/>
+<area shape="rect" id="node46" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="1227,83,1349,112"/>
+<area shape="rect" id="node51" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="1424,83,1533,112"/>
+<area shape="rect" id="node55" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="1557,83,1659,112"/>
+<area shape="rect" id="node12" href="$sptr_8h.htm" title="sptr.h" alt="" coords="997,237,1053,267"/>
+<area shape="rect" id="node16" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="168,237,275,267"/>
+<area shape="rect" id="node20" href="$Event_8h.htm" title="Event.h" alt="" coords="675,160,744,189"/>
+<area shape="rect" id="node40" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="304,160,432,189"/>
+</map>

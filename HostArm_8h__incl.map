@@ -1,0 +1,16 @@
+<map id="HostArm.h" name="HostArm.h">
+<area shape="rect" id="node5" href="$Common_8h.htm" title="Common.h" alt="" coords="1087,392,1175,421"/>
+<area shape="rect" id="node7" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="1072,83,1165,112"/>
+<area shape="rect" id="node25" href="$Event_8h.htm" title="Event.h" alt="" coords="449,237,519,267"/>
+<area shape="rect" id="node51" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="1668,160,1791,189"/>
+<area shape="rect" id="node67" href="$NyxSensorConnector_8h.htm" title="NyxSensorConnector.h" alt="" coords="1844,83,2012,112"/>
+<area shape="rect" id="node82" href="$NyxInputControl_8h.htm" title="NyxInputControl.h" alt="" coords="1409,83,1543,112"/>
+<area shape="rect" id="node86" href="$NyxLedControl_8h.htm" title="NyxLedControl.h" alt="" coords="1245,83,1371,112"/>
+<area shape="rect" id="node10" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="777,160,873,189"/>
+<area shape="rect" id="node40" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="949,237,1019,267"/>
+<area shape="rect" id="node56" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="1383,160,1492,189"/>
+<area shape="rect" id="node59" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="1156,160,1257,189"/>
+<area shape="rect" id="node17" href="$sptr_8h.htm" title="sptr.h" alt="" coords="805,315,861,344"/>
+<area shape="rect" id="node21" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="885,315,992,344"/>
+<area shape="rect" id="node45" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="552,237,680,267"/>
+</map>

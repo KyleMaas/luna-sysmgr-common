@@ -1,0 +1,5 @@
+<map id="NYXLogicalDeviceMotionSensorConnector" name="NYXLogicalDeviceMotionSensorConnector">
+<area shape="rect" id="node2" href="$classNYXLogicalSensorConnectorBase.htm" title="NYXLogicalSensorConnectorBase" alt="" coords="5,160,243,189"/>
+<area shape="rect" id="node4" href="$classNYXConnectorBase.htm" title="NYXConnectorBase" alt="" coords="51,83,197,112"/>
+<area shape="rect" id="node6" href="$classQObject.htm" title="QObject" alt="" coords="88,5,160,35"/>
+</map>

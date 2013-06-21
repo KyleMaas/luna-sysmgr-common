@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['raw_5fx',['raw_x',['../classMagneticFieldEvent.htm#a35e20592a966662c10261cde5b1670a0',1,'MagneticFieldEvent']]],
+  ['raw_5fy',['raw_y',['../classMagneticFieldEvent.htm#a1fd15d9f46fa4dbf3b2612ed37917738',1,'MagneticFieldEvent']]],
+  ['raw_5fz',['raw_z',['../classMagneticFieldEvent.htm#a9b9b9682f555e21b14b1ff86e3f84eec',1,'MagneticFieldEvent']]],
+  ['rawx',['rawX',['../classNYXMagneticFieldSensorConnector.htm#ad50afca156cf91d4064baa1578b7b293',1,'NYXMagneticFieldSensorConnector']]],
+  ['rawy',['rawY',['../classNYXMagneticFieldSensorConnector.htm#a22f1bc52b5d101d89ec92dd2c36af1bb',1,'NYXMagneticFieldSensorConnector']]],
+  ['rawz',['rawZ',['../classNYXMagneticFieldSensorConnector.htm#a572021dbe87ede5b1b0e2c96af9cfe73',1,'NYXMagneticFieldSensorConnector']]],
+  ['readalsdata',['readALSData',['../classHostArm.htm#a69c98eeeecc3bb11f3351185860da2b5',1,'HostArm']]],
+  ['readfile',['readFile',['../Utils_8cpp.htm#a204e2f13079dae86310219e4cbbbcf06',1,'readFile(const char *filePath):&#160;Utils.cpp'],['../Utils_8h.htm#a204e2f13079dae86310219e4cbbbcf06',1,'readFile(const char *filePath):&#160;Utils.cpp']]],
+  ['readhidevents',['readHidEvents',['../classHostArm.htm#a12cb409a58eddef07c289b6cd9b7618d',1,'HostArm']]],
+  ['readproxdata',['readProxData',['../classHostArm.htm#adabcbe6c58b49c2b29f83307740fa8c2',1,'HostArm']]],
+  ['readsensordata',['readSensorData',['../classNYXConnectorBase.htm#ab43688b8ef9107d627359f04aa1894be',1,'NYXConnectorBase::readSensorData()'],['../classNYXAccelerationSensorConnector.htm#a16ceabb56dc17e243e1fa044dd7ebf46',1,'NYXAccelerationSensorConnector::readSensorData()'],['../classNYXAlsSensorConnector.htm#ab228782883b65827dbd3449a9868ef86',1,'NYXAlsSensorConnector::readSensorData()'],['../classNYXAngularVelocitySensorConnector.htm#a18a9a8e034ae05a1ff1794d1d352ff49',1,'NYXAngularVelocitySensorConnector::readSensorData()'],['../classNYXBearingSensorConnector.htm#a9091b0f21d2abae619f4d5ea337d4312',1,'NYXBearingSensorConnector::readSensorData()'],['../classNYXGravitySensorConnector.htm#aa9b4bafd301ffc7a6ed0c64c1c3b4e1b',1,'NYXGravitySensorConnector::readSensorData()'],['../classNYXLinearAccelearationSensorConnector.htm#a725323cfb1a45dff9da5b1d1b6d7b41d',1,'NYXLinearAccelearationSensorConnector::readSensorData()'],['../classNYXMagneticFieldSensorConnector.htm#a383aa5156345fb76722740def1cd1594',1,'NYXMagneticFieldSensorConnector::readSensorData()'],['../classNYXOrientationSensorConnector.htm#a470876b5ebf85b4263c09e591a2fa4d1',1,'NYXOrientationSensorConnector::readSensorData()'],['../classNYXScreenProximitySensorConnector.htm#aa23b6db5f587eeeb1ace2c3b4eca9bd1',1,'NYXScreenProximitySensorConnector::readSensorData()'],['../classNYXRotationSensorConnector.htm#a3d1571720c51b9be2dcb09153b9727f7',1,'NYXRotationSensorConnector::readSensorData()'],['../classNYXShakeSensorConnector.htm#ac7e3aef7860c49ae065e335a35ea6c1a',1,'NYXShakeSensorConnector::readSensorData()'],['../classNYXLogicalSensorConnectorBase.htm#afa57183dbd8defe37d0e0240f5b6dc35',1,'NYXLogicalSensorConnectorBase::readSensorData()']]],
+  ['receiver',['receiver',['../classFunctionWrapper.htm#ac952d4bffe807e4517c12c4525828650',1,'FunctionWrapper']]],
+  ['recognize',['recognize',['../classFlickGestureRecognizer.htm#a8a0e62cb9cc1cf54254f567dace1007f',1,'FlickGestureRecognizer']]],
+  ['ref',['ref',['../classSingletonTimer.htm#ac4758a5a0ae4fd19593b4cf2614b4e9f',1,'SingletonTimer::ref()'],['../classRefCounted.htm#a1932b96104186ea7423d53648e2272b1',1,'RefCounted::ref()']]],
+  ['refcounted',['RefCounted',['../classRefCounted.htm#a0f4d8212944ba431ea79c4fc55f093f8',1,'RefCounted']]],
+  ['rejected',['rejected',['../classEvent.htm#a65c859ec696f754643388780f3d0554c',1,'Event']]],
+  ['remap_5fstdx_5fpipes',['remap_stdx_pipes',['../Utils_8cpp.htm#a2ffa16dd00190b217527f1d74ad5392f',1,'remap_stdx_pipes(int readPipe, int writePipe):&#160;Utils.cpp'],['../Utils_8h.htm#a2ffa16dd00190b217527f1d74ad5392f',1,'remap_stdx_pipes(int readPipe, int writePipe):&#160;Utils.cpp']]],
+  ['requestedwindoworientation',['requestedWindowOrientation',['../classApplicationDescriptionBase.htm#a85b108671d3b3508e0cca68b1a653627',1,'ApplicationDescriptionBase']]],
+  ['roll',['roll',['../classOrientationEvent.htm#a95af7bbe31d48e97ba80a91e3d0fb8d7',1,'OrientationEvent::roll()'],['../classAccelerometerEvent.htm#a1795a9ba4e30bbb997511d1483a8b165',1,'AccelerometerEvent::roll()'],['../classRotationEvent.htm#aec25e8962c133855839d0a9d09de4b8d',1,'RotationEvent::roll()'],['../classNYXRotationSensorConnector.htm#a6d56f2857f4c7e1def2d9f4fc51411f0',1,'NYXRotationSensorConnector::roll()']]],
+  ['rotationevent',['RotationEvent',['../classRotationEvent.htm#a7afc1f8d35f0ac4dfc1493e2f787abcd',1,'RotationEvent']]],
+  ['rotationmatrix',['rotationMatrix',['../classNYXRotationSensorConnector.htm#a92a00f0f63c0491760b102f1154f8c68',1,'NYXRotationSensorConnector']]],
+  ['run',['run',['../classHostBase.htm#a12aff8262b4bf30d3cb6e0af32909011',1,'HostBase::run()'],['../classSyncTask.htm#a98f59db0f166b573d7822ca61462cfeb',1,'SyncTask::run()'],['../classTaskBase.htm#a6201a468cbd0510f5d23372145e26bf1',1,'TaskBase::run()']]],
+  ['running',['running',['../classTimerBase.htm#a41b10a9feb5a856df0b8bf1fb3c79873',1,'TimerBase']]]
+];

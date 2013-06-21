@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['qevent',['QEvent',['../classQEvent.htm',1,'']]],
+  ['qgesture',['QGesture',['../classQGesture.htm',1,'']]],
+  ['qgesturerecognizer',['QGestureRecognizer',['../classQGestureRecognizer.htm',1,'']]],
+  ['qobject',['QObject',['../classQObject.htm',1,'']]],
+  ['qtutils_2eh',['QtUtils.h',['../QtUtils_8h.htm',1,'']]],
+  ['quaternionw',['quaternionW',['../classNYXRotationSensorConnector.htm#a66a00cafce12106fc207fa72f8d6c3e3',1,'NYXRotationSensorConnector']]],
+  ['quaternionx',['quaternionX',['../classNYXRotationSensorConnector.htm#a37a4155c3fdadc4b4ef219c9290f4962',1,'NYXRotationSensorConnector']]],
+  ['quaterniony',['quaternionY',['../classNYXRotationSensorConnector.htm#a03e6d28668a105c8eba7fa49ce7ac18c',1,'NYXRotationSensorConnector']]],
+  ['quaternionz',['quaternionZ',['../classNYXRotationSensorConnector.htm#a37867f86b514a5b2da5b84e6f3497a85',1,'NYXRotationSensorConnector']]],
+  ['quick_5flaunch',['QUICK_LAUNCH',['../HostArm_8h.htm#a72a6dcbcdc451f054ade2be11e50e6dcad5c83d28109f06ce92e8a77bf48462a8',1,'HostArm.h']]],
+  ['quicklaunchcustompositions',['quicklaunchCustomPositions',['../classSettings.htm#a534dfead1db7ec9dfb028be1049306ae',1,'Settings']]],
+  ['quicklaunchdefaultpositions',['quicklaunchDefaultPositions',['../classSettings.htm#aa7964e5a14258efe5d4639c6670661e5',1,'Settings']]],
+  ['quicklaunchuserpositions',['quicklaunchUserPositions',['../classSettings.htm#a27ef3572e192131029968c4a8c1c8537',1,'Settings']]],
+  ['quit',['quit',['../classHostBase.htm#a6c70ea03b8347e1bf1ca3df833324379',1,'HostBase::quit()'],['../classSyncTask.htm#ad91e90efda99e5be8a0a12a0843b8df1',1,'SyncTask::quit()'],['../classTaskBase.htm#a5b456149fb5490c2d3bad9b98f270123',1,'TaskBase::quit()']]],
+  ['qwidget',['QWidget',['../classQWidget.htm',1,'']]],
+  ['qwshiddtphandlerprivate',['QWSHiddTpHandlerPrivate',['../classFlickGesture.htm#afd80fe09f39441de2470a6a644d1e69e',1,'FlickGesture']]]
+];

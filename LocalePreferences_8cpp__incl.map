@@ -1,0 +1,20 @@
+<map id="LocalePreferences.cpp" name="LocalePreferences.cpp">
+<area shape="rect" id="node3" href="$Common_8h.htm" title="Common.h" alt="" coords="664,392,752,421"/>
+<area shape="rect" id="node7" href="$LocalePreferences_8h.htm" title="LocalePreferences.h" alt="" coords="647,160,799,189"/>
+<area shape="rect" id="node32" href="$Settings_8h.htm" title="Settings.h" alt="" coords="1875,237,1958,267"/>
+<area shape="rect" id="node49" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="875,83,968,112"/>
+<area shape="rect" id="node96" href="$Logging_8h.htm" title="Logging.h" alt="" coords="106,237,188,267"/>
+<area shape="rect" id="node103" href="$MutexLocker_8h.htm" title="MutexLocker.h" alt="" coords="191,160,306,189"/>
+<area shape="rect" id="node107" href="$JSONUtils_8h.htm" title="JSONUtils.h" alt="" coords="1868,160,1964,189"/>
+<area shape="rect" id="node117" href="$Localization_8h.htm" title="Localization.h" alt="" coords="1710,160,1816,189"/>
+<area shape="rect" id="node14" href="$Mutex_8h.htm" title="Mutex.h" alt="" coords="724,237,794,267"/>
+<area shape="rect" id="node23" href="$CustomEvents_8h.htm" title="CustomEvents.h" alt="" coords="482,237,604,267"/>
+<area shape="rect" id="node17" href="$sptr_8h.htm" title="sptr.h" alt="" coords="796,315,852,344"/>
+<area shape="rect" id="node52" href="$TaskBase_8h.htm" title="TaskBase.h" alt="" coords="874,160,970,189"/>
+<area shape="rect" id="node86" href="$InputControl_8h.htm" title="InputControl.h" alt="" coords="1276,160,1386,189"/>
+<area shape="rect" id="node90" href="$LedControl_8h.htm" title="LedControl.h" alt="" coords="1090,160,1191,189"/>
+<area shape="rect" id="node59" href="$AsyncCaller_8h.htm" title="AsyncCaller.h" alt="" coords="1490,315,1596,344"/>
+<area shape="rect" id="node63" href="$Event_8h.htm" title="Event.h" alt="" coords="926,237,995,267"/>
+<area shape="rect" id="node79" href="$SingletonTimer_8h.htm" title="SingletonTimer.h" alt="" coords="1046,237,1174,267"/>
+<area shape="rect" id="node120" href="$QtUtils_8h.htm" title="QtUtils.h" alt="" coords="2032,237,2107,267"/>
+</map>

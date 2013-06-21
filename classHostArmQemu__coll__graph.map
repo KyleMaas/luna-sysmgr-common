@@ -1,0 +1,17 @@
+<map id="HostArmQemu" name="HostArmQemu">
+<area shape="rect" id="node2" href="$classHostArm.htm" title="HostArm" alt="" coords="1412,517,1487,547"/>
+<area shape="rect" id="node4" href="$classHostBase.htm" title="HostBase" alt="" coords="1011,661,1093,691"/>
+<area shape="rect" id="node6" href="$classQObject.htm" title="QObject" alt="" coords="243,676,315,705"/>
+<area shape="rect" id="node49" href="$classNYXConnectorBase.htm" title="NYXConnectorBase" alt="" coords="561,367,708,396"/>
+<area shape="rect" id="node8" href="$classTaskBase.htm" title="TaskBase" alt="" coords="592,1153,677,1183"/>
+<area shape="rect" id="node10" href="$classRefCounted.htm" title="RefCounted" alt="" coords="23,1111,119,1140"/>
+<area shape="rect" id="node22" href="$classMutex.htm" title="Mutex" alt="" coords="249,1021,308,1051"/>
+<area shape="rect" id="node12" href="$classAsyncCaller.htm" title="AsyncCaller\&lt; TaskBase \&gt;" alt="" coords="187,1232,371,1261"/>
+<area shape="rect" id="node14" href="$classAsyncCallerBase.htm" title="AsyncCallerBase" alt="" coords="7,1232,135,1261"/>
+<area shape="rect" id="node20" href="$classSingletonTimer.htm" title="SingletonTimer" alt="" coords="220,1339,337,1368"/>
+<area shape="rect" id="node27" href="$structHostInfo.htm" title="HostInfo" alt="" coords="597,855,672,884"/>
+<area shape="rect" id="node43" href="$classNYXConnectorObserver.htm" title="NYXConnectorObserver" alt="" coords="192,267,365,296"/>
+<area shape="rect" id="node47" href="$classNYXOrientationSensorConnector.htm" title="NYXOrientationSensorConnector" alt="" coords="937,305,1167,335"/>
+<area shape="rect" id="node66" href="$classLedControl.htm" title="LedControl" alt="" coords="1007,857,1097,887"/>
+<area shape="rect" id="node71" href="$classInputControl.htm" title="InputControl" alt="" coords="1003,1043,1101,1072"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="TaskBase.h" name="TaskBase.h">
+<area shape="rect" id="node3" href="$TaskBase_8cpp.htm" title="TaskBase.cpp" alt="" coords="603,83,712,112"/>
+<area shape="rect" id="node5" href="$HostBase_8h.htm" title="HostBase.h" alt="" coords="736,83,829,112"/>
+<area shape="rect" id="node40" href="$SyncTask_8h.htm" title="SyncTask.h" alt="" coords="1071,83,1164,112"/>
+<area shape="rect" id="node7" href="$FlickGestureRecognizer_8cpp.htm" title="FlickGestureRecognizer.cpp" alt="" coords="975,160,1172,189"/>
+<area shape="rect" id="node9" href="$HostArm_8cpp.htm" title="HostArm.cpp" alt="" coords="24,237,125,267"/>
+<area shape="rect" id="node11" href="$HostBase_8cpp.htm" title="HostBase.cpp" alt="" coords="20,315,129,344"/>
+<area shape="rect" id="node13" href="$HostArm_8h.htm" title="HostArm.h" alt="" coords="524,160,609,189"/>
+<area shape="rect" id="node32" href="$HostQtDesktop_8h.htm" title="HostQtDesktop.h" alt="" coords="633,160,761,189"/>
+<area shape="rect" id="node36" href="$LocalePreferences_8cpp.htm" title="LocalePreferences.cpp" alt="" coords="785,160,951,189"/>
+<area shape="rect" id="node38" href="$SyncTask_8cpp.htm" title="SyncTask.cpp" alt="" coords="1196,160,1305,189"/>
+<area shape="rect" id="node16" href="$HostArmBroadway_8cpp.htm" title="HostArmBroadway.cpp" alt="" coords="861,237,1027,267"/>
+<area shape="rect" id="node18" href="$HostArmMantaray_8cpp.htm" title="HostArmMantaray.cpp" alt="" coords="1051,237,1213,267"/>
+<area shape="rect" id="node20" href="$HostArmOpal_8cpp.htm" title="HostArmOpal.cpp" alt="" coords="1237,237,1368,267"/>
+<area shape="rect" id="node22" href="$HostArmQemu_8cpp.htm" title="HostArmQemu.cpp" alt="" coords="333,237,472,267"/>
+<area shape="rect" id="node24" href="$HostArmTopaz_8cpp.htm" title="HostArmTopaz.cpp" alt="" coords="496,237,637,267"/>
+<area shape="rect" id="node26" href="$HostArmUnknown_8cpp.htm" title="HostArmUnknown.cpp" alt="" coords="149,237,309,267"/>
+<area shape="rect" id="node29" href="$HostArmWindsorNot_8cpp.htm" title="HostArmWindsorNot.cpp" alt="" coords="661,237,837,267"/>
+<area shape="rect" id="node34" href="$HostQtDesktop_8cpp.htm" title="HostQtDesktop.cpp" alt="" coords="1392,237,1536,267"/>
+</map>

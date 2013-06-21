@@ -1,0 +1,14 @@
+<map id="TaskBase" name="TaskBase">
+<area shape="rect" id="node5" href="$classHostBase.htm" title="HostBase" alt="" coords="287,192,369,221"/>
+<area shape="rect" id="node25" href="$classSyncTask.htm" title="SyncTask" alt="" coords="287,245,369,275"/>
+<area shape="rect" id="node2" href="$classRefCounted.htm" title="RefCounted" alt="" coords="7,219,103,248"/>
+<area shape="rect" id="node7" href="$classHostArm.htm" title="HostArm" alt="" coords="441,165,516,195"/>
+<area shape="rect" id="node23" href="$classHostQtDesktop.htm" title="HostQtDesktop" alt="" coords="420,219,537,248"/>
+<area shape="rect" id="node9" href="$classHostArmBroadway.htm" title="HostArmBroadway" alt="" coords="593,5,732,35"/>
+<area shape="rect" id="node11" href="$classHostArmMantaray.htm" title="HostArmMantaray" alt="" coords="595,59,731,88"/>
+<area shape="rect" id="node13" href="$classHostArmOpal.htm" title="HostArmOpal" alt="" coords="609,112,716,141"/>
+<area shape="rect" id="node15" href="$classHostArmQemu.htm" title="HostArmQemu" alt="" coords="607,165,719,195"/>
+<area shape="rect" id="node17" href="$classHostArmTopaz.htm" title="HostArmTopaz" alt="" coords="605,219,720,248"/>
+<area shape="rect" id="node19" href="$classHostArmUnknown.htm" title="HostArmUnknown" alt="" coords="596,272,729,301"/>
+<area shape="rect" id="node21" href="$classHostArmWindsorNot.htm" title="HostArmWindsorNot" alt="" coords="588,325,737,355"/>
+</map>
